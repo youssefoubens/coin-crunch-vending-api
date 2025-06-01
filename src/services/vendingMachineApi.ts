@@ -1,5 +1,5 @@
 
-const API_BASE_URL = 'http://localhost:8080/api/vending';
+const API_BASE_URL = 'http://localhost:8087/api/vending';
 
 export interface Product {
   id: number;

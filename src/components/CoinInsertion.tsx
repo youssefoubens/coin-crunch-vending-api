@@ -15,7 +15,7 @@ const CoinInsertion: React.FC<CoinInsertionProps> = ({
   onInsertCoin, 
   disabled 
 }) => {
-  const coinValues = [0.25, 0.50, 1.00, 2.00, 5.00, 10.00];
+  const coinValues = [0.50, 1.00, 2.00, 5.00, 10.00];
 
   return (
     <Card className="bg-gradient-to-br from-blue-50 to-indigo-100 border-blue-200">
