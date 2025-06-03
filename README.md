@@ -43,7 +43,8 @@ Coin Crunch Vending API is a web application that simulates a smart vending mach
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/coin-crunch-vending-api.git
+   git clone https://github.com/youssefoubens/coin-crunch-vending-api.git
+   
    cd coin-crunch-vending-api
    ```
 
